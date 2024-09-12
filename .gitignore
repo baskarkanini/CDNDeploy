@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files and folders
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore publish output
+publish/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Ignore lock files
+project.lock.json
+project.fragment.lock.json
+
+# Ignore Rider files
+.idea/
+
+# Ignore local environment configuration
+*.local
